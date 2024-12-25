@@ -1,4 +1,4 @@
-let i;
+// let i;
 
 // Simple Floop
 // for(i=1;i<=10;i++){
@@ -14,12 +14,12 @@ let i;
 
 // for in loop
 
-let student={
-    name:'sachin',
-    age:34,
-    isPass:true,
-};
+// let student={
+//     name:'sachin',
+//     age:34,
+//     isPass:true,
+// };
 
-for(let i in student){
-    console.log(i,"=",student[i]);
-}
+// for(let i in student){
+//     console.log(i,"=",student[i]);
+// }
